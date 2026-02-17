@@ -1,0 +1,9 @@
+{
+	"name": "spgdatafactory12",
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7567f919-bb6b-4a7c-b02d-7157d41836eb",
+		"tenantId": "3979979e-a084-447a-b08e-fc5ae254e167"
+	}
+}
