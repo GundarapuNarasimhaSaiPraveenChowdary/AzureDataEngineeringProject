@@ -1,0 +1,17 @@
+{
+	"name": "spgazureprojectdb_ls",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "AzureSqlDatabase",
+		"typeProperties": {
+			"server": "spgazureproject.database.windows.net",
+			"database": "spgazureprojectdb",
+			"encrypt": "mandatory",
+			"trustServerCertificate": false,
+			"authenticationType": "SQL",
+			"userName": "Adminspg",
+			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkRBVEFGQUNUT1JZQDFDQTcwQjc4LUM5NkEtNDFBQS04MkE2LUQzMjUwRUJDNkFBNF84ZjMyODVjOS0xMTdjLTQ5MmEtOTA5Mi0zMzFmZjgyMzg1N2QiDQp9"
+		}
+	}
+}
